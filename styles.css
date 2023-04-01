@@ -1,0 +1,21 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+#content{
+    text-align: justify;
+    margin: 100px 800px 100px 200px;
+}
+
+a{
+    color: #00b4d8;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: #90e0ef;
+    color: #ffffff;
+}
