@@ -23,12 +23,13 @@ a:hover{
     #content{
         text-align: justify;
         margin: 70px 30px;
+       
     }
 }
 
 @media screen and (min-width : 620px){}
-@media screen and (min-width : 960px){
-
+@media screen and (min-width : 960px){}
+@media screen and (min-width : 1200px){
 
     body {
         font-size: 20px;
@@ -38,8 +39,5 @@ a:hover{
         text-align: justify;
         margin: 100px 800px 100px 200px;
     }
-
-    
 }
-@media screen and (min-width : 1200px){}
 
