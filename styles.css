@@ -51,10 +51,11 @@ a::selection {
 @media screen and (min-width : 620px){
     body {
         font-size: 18px;
+        line-height: 25px;
     }
     #content{
         text-align: justify;
-        margin: 140px 90px 100px 90px;  
+        margin: 90px 70px 90px 70px;  
     }
 }
 @media screen and (min-width : 960px){
